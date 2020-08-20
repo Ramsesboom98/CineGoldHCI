@@ -1,0 +1,2 @@
+# CineGoldHCI
+Proyecto HCI
